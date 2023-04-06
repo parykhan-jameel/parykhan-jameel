@@ -1,6 +1,6 @@
 <img align="center" alt="coding" width="1000" height="300"  src="https://wallpapers.com/images/hd/monkey-doing-coding-kabic55n6a0wai1i.jpg">
 <h1 align="center">Hi 👋, I'm parykhan jameel</h1>
-<h3 align="center">I'm a front-end developer who can create powerfull websites with JavaScript and their frameworks to further simplify everyday life. 7 I'm passionate about learning new languages and accept challenges, also problem-solving is the most essential skill that can represent me.</h3>
+<h3 align="center">I'm a front-end developer who can create powerfull websites with JavaScript and their frameworks to further simplify everyday life. 7 I'm passionate about learning new languages and accept challenges.</h3>
 <br>
 <br>
 
