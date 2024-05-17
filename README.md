@@ -5,13 +5,12 @@
 <br>
 
 
-- 🔭 I’m currently working on <br>**my porrfolio website**
+- 🔭 I’m currently working on <br>**color matching app-chingu voyages**
 
 - 🌱 I’m currently learning<br>
- **React.js<br>
- styled components<br>
- semantic UI<br>
- material UI**
+ **Next.js<br>
+ Typescript<br>
+ **
   
 
 - 💬 Ask me about<br>
